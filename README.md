@@ -17,3 +17,11 @@ library(raster)
 library(rgdal)
 library(sp)
 library(Rcpp)
+
+## Import Data
+
+```R
+lu2005 = raster("landuse_2005.tif")
+lu2012 = raster("landuse_2012.tif")
+lu_fut = raster("lu_fut.tif")
+renelosa = readShapePoly("a3070.shp")
