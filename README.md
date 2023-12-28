@@ -96,6 +96,5 @@ save.image("redlist_practical.Rdata")
 ```
 - This code can be used as a guide for analyzing habitat suitability for multiple species in different time periods.
 
-- 
-Please note that I made a few assumptions, such as the existence of a variable `SPECIESNAME.r` which needs to be replaced with the actual rasterized species range data. Make sure to replace placeholders like `SPECIESNAME` with the correct names in your data.
+- Please note that I made a few assumptions, such as the existence of a variable `SPECIESNAME.r` which needs to be replaced with the actual rasterized species range data. Make sure to replace placeholders like `SPECIESNAME` with the correct names in your data.
 
