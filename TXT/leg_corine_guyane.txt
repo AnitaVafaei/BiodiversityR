@@ -1,0 +1,17 @@
+# Esporta file QGIS mappa colori generata
+INTERPOLATION:DISCRETE
+1,255,0,0,255,urban
+13,255,0,255,255,orpaillage and mining
+21,255,255,0,255,arable
+22,255,255,127,255,permanent colture
+23,255,170,0,255,grassland
+24,170,255,127,255,heterogeneous colture
+31,0,170,0,255,forest
+32,170,85,0,255,savannah
+33,219,219,219,255,bare
+34,0,255,0,255,degraded forest
+41,0,170,127,255,inland wetland
+42,170,0,255,255,marine wetland
+51,0,170,255,255,inland water
+318,0,85,0,255,mangroves
+332,0,0,0,255,inselberg
