@@ -1,0 +1,16 @@
+category	name	renelosa
+1	urban	0
+13	orpaillage and mining activities	0
+21	arable	0
+22	permanent colture	0
+23	grassland	1
+24	heterogeneous colture	0
+31	forest	1
+32	savannah	1
+33	bare	0
+34	degraded forest	0
+41	inland wetland	1
+42	marine wetland	0
+51	inland water	0
+318	mangroves	0
+332	inselberg	0
