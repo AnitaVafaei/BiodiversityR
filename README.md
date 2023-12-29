@@ -2,7 +2,6 @@
 [![](https://badgen.net/badge/MIT/License/blue?icon=instgrame)]()
 [![](https://badgen.net/badge/Biodiversity/R/blue?icon=instgrame)]()
 [![](https://badgen.net/badge/Rhinella/Granulosa/blue?icon=instgrame)]()
-
 [![](https://badgen.net/badge/IUCN/Red/red?icon=instgrame)]()
 [![](https://badgen.net/badge/land-use/data/black?icon=instgrame)]()
 
