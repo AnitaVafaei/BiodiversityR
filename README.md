@@ -1,4 +1,6 @@
 [![License](https://img.shields.io/badge/license-MIT%202-blue)](LICENSE)
+
+[![](https://badgen.net/badge/MIT/License/blue?icon=instgrame)]()
 [![](https://badgen.net/badge/Biodiversity/R/blue?icon=instgrame)]()
 [![](https://badgen.net/badge/Rhinella/Granulosa/blue?icon=instgrame)]()
 
