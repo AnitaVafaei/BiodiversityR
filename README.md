@@ -1,3 +1,22 @@
+[![License](https://img.shields.io/badge/license-MIT%202-blue)](LICENSE)
+[![](https://badgen.net/badge/Biodiversity/R/blue?icon=instgrame)]()
+[![](https://badgen.net/badge/Rhinella/Granulosa/blue?icon=instgrame)]()
+
+[![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/NMTF/Coclust/pink?icon=instgrame)](https://github.com/Saeidhoseinipour/NMTFcoclust/tree/master/Models)
+[![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Original/Paper/yellow?icon=instgrame)](https://www.sciencedirect.com/science/article/abs/pii/S095741742301182X?via%3Dihub)
+[![Supplementary material](https://badgen.net/badge/Supplementary/material/orange?icon=instgrame)](https://ars.els-cdn.com/content/image/1-s2.0-S095741742301182X-mmc1.pdf)
+[![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Purchase/PDF/brown?icon=instgrame)](https://www.sciencedirect.com/getaccess/pii/S095741742301182X/purchase)
+[![https://github.com/Saeidhoseinipour/NMTFcoclust](https://badgen.net/badge/Presentation/Video/green?icon=instgrame)](https://www.sciencedirect.com/getaccess/pii/S095741742301182X/purchase)
+[![https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Models/NMTFcoclust_OPNMTF_alpha.py](https://badgen.net/badge/OPNMTF/Coclust/pink?icon=instgrame)](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Models/NMTFcoclust_OPNMTF_alpha.py)
+[![https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Models/NMTFcoclust_OPNMTF_alpha.py](https://badgen.net/badge/ACM/Digital_Library/black?icon=instgrame)](https://dl.acm.org/doi/10.1016/j.eswa.2023.120680)
+[![https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Models/NMTFcoclust_OPNMTF_alpha.py](https://badgen.net/badge/SSRN/Prereview/blue?icon=instgrame)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4416222)
+[![https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Models/NMTFcoclust_OPNMTF_alpha.py](https://badgen.net/badge/X/Mol/blue?icon=instgrame)](https://www.x-mol.net/paper/article/1665507162148552704)
+[![https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Models/NMTFcoclust_OPNMTF_alpha.py](https://badgen.net/badge/PlumX/Metrics/green?icon=instgrame)](https://plu.mx/plum/a/?doi=10.1016/j.eswa.2023.120680&theme=plum-sciencedirect-theme&hideUsage=true)
+ [![https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Models/NMTFcoclust_OPNMTF_alpha.py](https://badgen.net/badge/Colab/WS/red?icon=instgrame)](https://colab.ws/articles/10.1016/j.eswa.2023.120680)
+ [![https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Models/NMTFcoclust_OPNMTF_alpha.py](https://badgen.net/badge/Prereview/PDF/pink?icon=instgrame)](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/SSRN-id4416222_Prereview_OPNMTF.pdf)
+
+
+
 # BiodiversityR
 Preserving Biodiversity: An Integrated Approach Using R and the IUCN Red List for Rhinella Granulosa species
 
